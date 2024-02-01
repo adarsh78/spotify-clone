@@ -190,7 +190,6 @@ body {
   filter: invert(1);
   background-color: #dad5d5;
   border-radius: 10px;
-  width: 90%;
   padding: 12px;
   position: fixed;
   width: 70vw;
@@ -317,6 +316,8 @@ body {
 .aboveBar {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  gap: 80px;
   margin: 20px 0;
 }
 

@@ -51,32 +51,40 @@
         "song_file": "./AllSongs/kk/Tu-Hi-Meri-Shab-Hai-Lofi-Flip(PaglaSongs).mp3"
       },
       {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Labon-Ko-Slowed-Reverb",
+        "song_file": "./AllSongs/kk/Labon-Ko-Slowed-Reverb(PaglaSongs).mp3"
       },
       {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
+        "song_title": "Pyaar-Ke-Pal",
+        "song_file": "./AllSongs/kk/Pyaar-Ke-Pal(PaglaSongs).mp3"
       },
       {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Yaaron-Dosti",
+        "song_file": "./AllSongs/kk/Yaaron-Dosti(PaglaSongs).mp3"
       },
       {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
+        "song_title": "Aankhon-Mein-Teri",
+        "song_file": "./AllSongs/kk/Aankhon-Mein-Teri-Lofi-Remix(PagalWorld).mp3"
       },
       {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Awarapan-Mashup",
+        "song_file": "./AllSongs/kk/Awarapan-Mashup-(Chill-Vibes)(PaglaSongs).mp3"
       },
       {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
+        "song_title": "Dil-Ibadat",
+        "song_file": "./AllSongs/kk/Dil-Ibadat(PaglaSongs).mp3"
       },
       {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "Kyun-Yeh-Mera-Shor-Kare",
+        "song_file": "./AllSongs/kk/Dil-Kyun-Yeh-Mera-Shor-Kare(PaglaSongs).mp3"
+      },
+      {
+        "song_title": "Tujhe-Sochta-Hoon",
+        "song_file": "./AllSongs/kk/Tujhe-Sochta-Hoon(PaglaSongs).mp3"
+      },
+      {
+        "song_title": "Zara-Sa",
+        "song_file": "./AllSongs/kk/Zara-Sa(PaglaSongs).mp3"
       }
     ]
   },
@@ -88,36 +96,16 @@
     "image": "./albums/ms_dhoni/ms_dhoni.jpg",
     "song": [
       {
-        "song_title": "Satranga",
-        "song_file": "./AllSongs/animal/Satranga - Animal.mp3"
+        "song_title": "Kaun Tujhe",
+        "song_file": "./AllSongs/ms_dhoni/02 Kaun Tujhe (MS Dhoni) Palak 190Kbps.mp3"
       },
       {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Phir Kabhi",
+        "song_file": "./AllSongs/ms_dhoni/04 Phir Kabhi - MS Dhoni (Arijit Singh) - 190Kbps.mp3"
       },
       {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
-      },
-      {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "Besabriyaan",
+        "song_file": "./AllSongs/ms_dhoni/01 Besabriyaan (MS Dhoni) Armaan Malik 320Kbps.mp3"
       }
     ]
   },
@@ -129,36 +117,20 @@
     "image": "./albums/adhm/adhm.jpg",
     "song": [
       {
-        "song_title": "Satranga",
-        "song_file": "./AllSongs/animal/Satranga - Animal.mp3"
+        "song_title": "Aaj Jane Ki Zid Na Karo",
+        "song_file": "./AllSongs/ae_dil_hai_mushkil/Aaj Jane Ki Zid Na Karo_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Ae Dil Hai Mushkil Title Track",
+        "song_file": "./AllSongs/ae_dil_hai_mushkil/Ae Dil Hai Mushkil Title Track_320(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
+        "song_title": "Channa Mereya (Unplugged)",
+        "song_file": "./AllSongs/ae_dil_hai_mushkil/Channa Mereya (Unplugged)_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "Channa Mereya",
+        "song_file": "./AllSongs/ae_dil_hai_mushkil/Channa Mereya_192(Ghantalele.com).mp3"
       }
     ]
   },
@@ -170,36 +142,8 @@
     "image": "./albums/kal_ho_na_ho/khnh.jpg",
     "song": [
       {
-        "song_title": "Satranga",
-        "song_file": "./AllSongs/animal/Satranga - Animal.mp3"
-      },
-      {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
-      },
-      {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "kal ho na ho",
+        "song_file": "./AllSongs/kal_ho_na_ho/03. kal ho na ho - Sad.mp3"
       }
     ]
   },
@@ -207,131 +151,75 @@
   {
     "id": 6,
     "title": "Ed Sheeran",
-    "description": "Ed Sheeran",
+    "description": "all time hits",
     "image": "./albums/ed_sheeran/eds.jpg",
     "song": [
       {
-        "song_title": "Satranga",
-        "song_file": "./AllSongs/animal/Satranga - Animal.mp3"
-      },
-      {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
-      },
-      {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "Shape of you (Slowed + reverb)",
+        "song_file": "./AllSongs/ed_sheeran/Shape of you (Slowed + reverb)(PagalWorld).mp3"
       }
     ]
   },
 
   {
     "id": 7,
-    "title": "Song_2",
-    "description": "desc_2",
-    "image": "./albums/album_2/cover.jpg",
+    "title": "Alan Walker",
+    "description": "all time hits",
+    "image": "./albums/alan_walker/cover.jpg",
     "song": [
       {
-        "song_title": "Satranga",
-        "song_file": "./AllSongs/animal/Satranga - Animal.mp3"
+        "song_title": "Faded",
+        "song_file": "./AllSongs/alan_walker/Faded(musicdownload.cc).mp3"
       },
       {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
-      },
-      {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "Lovesick",
+        "song_file": "./AllSongs/alan_walker/_Lovesick(PagalWorld.com.pe).mp3"
       }
     ]
   },
 
   {
     "id": 8,
-    "title": "Song_2",
-    "description": "desc_2",
-    "image": "./albums/album_2/cover.jpg",
+    "title": "Love Aaj Kal 2",
+    "description": "2020",
+    "image": "./albums/love_aaj_kal_2/lak2.jpg",
     "song": [
       {
-        "song_title": "Satranga",
-        "song_file": "./AllSongs/animal/Satranga - Animal.mp3"
+        "song_title": "Aur Tanha",
+        "song_file": "./AllSongs/love_aaj_kal_2/Aur Tanha_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Arjan Vailly",
-        "song_file": "./AllSongs/animal/Arjan Vailly - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Haan Main Galat",
+        "song_file": "./AllSongs/love_aaj_kal_2/Haan Main Galat_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Hua Main Animal",
-        "song_file": "./AllSongs/animal/Hua Main Animal 128 Kbps.mp3"
+        "song_title": "Haan Tum Ho",
+        "song_file": "./AllSongs/love_aaj_kal_2/Haan Tum Ho_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Jamal Kudu",
-        "song_file": "./AllSongs/animal/Jamal Kudu - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Mehrama (Extended)",
+        "song_file": "./AllSongs/love_aaj_kal_2/Mehrama (Extended)_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Kashmir",
-        "song_file": "./AllSongs/animal/Kashmir-(PagalWorld.Com.IN).mp3"
+        "song_title": "Rahogi Meri",
+        "song_file": "./AllSongs/love_aaj_kal_2/Rahogi Meri_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Papa Meri Jaan",
-        "song_file": "./AllSongs/animal/Papa Meri Jaan - Animal-(PagalWorld.Com.IN).mp3"
+        "song_title": "Shayad (Reprise)",
+        "song_file": "./AllSongs/love_aaj_kal_2/Shayad (Reprise)_192(Ghantalele.com).mp3"
       },
       {
-        "song_title": "Pehle Bhi Main",
-        "song_file": "./AllSongs/animal/Pehle Bhi Main-(PagalWorld.Com.IN).mp3"
-      },
-      {
-        "song_title": "Saari Duniya Jalaa Denge",
-        "song_file": "./AllSongs/animal/Saari Duniya Jalaa Denge-(PagalWorld.Com.IN).mp3"
+        "song_title": "Yeh Dooriyan",
+        "song_file": "./AllSongs/love_aaj_kal_2/Yeh Dooriyan_192(Ghantalele.com).mp3"
       }
     ]
   },
 
   {
     "id": 9,
-    "title": "Song_2",
-    "description": "desc_2",
-    "image": "./albums/album_2/cover.jpg",
+    "title": "Kabir Singh",
+    "description": "2019",
+    "image": "./albums/",
     "song": [
       {
         "song_title": "Satranga",

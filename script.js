@@ -15,62 +15,6 @@ function secondsToMinutesSeconds(seconds) {
   return `${formattedMinutes}:${formattedSeconds}`;
 }
 
-// const songFunction = async () => {
-//   try {
-//     let data = await fetch("./songs.json");
-//     let response = await data.json();
-//     songs = response.map((res) => {
-//       return res.song;
-//     });
-//     console.log(songs);
-
-//     const playMusic = (track, pause = false) => {
-//       currentSong.src = "./AllSongs/animal/" + track;
-//       if (!pause) {
-//         currentSong.play();
-//         play.src = "/images/pause.svg";
-//       }
-//       document.querySelector(".songInfo").innerHTML = decodeURI(track);
-//       document.querySelector(".songTime").innerHTML = "00:00 / 00:00";
-//     };
-
-//     playMusic(songs[0], true);
-
-//     let songUL = document.querySelector(".songList ul");
-
-//     for (const song of songs) {
-//       const li = document.createElement("li");
-//       li.innerHTML = `
-//         <img class="invert" src="/images/music.svg" alt="">
-//         <div class="info">
-//             <div>${song.split("/AllSongs/animal")[1]}</div>
-//             <div>Adarsh</div> <!-- You need to replace this with actual artist data -->
-//         </div>
-//         <div class="playNow">
-//             <span>Play Now</span>
-//             <img class="invert" src="/images/play.svg" alt="">
-//         </div>
-//     `;
-//       songUL.appendChild(li);
-//     }
-
-//     Array.from(
-//       document.querySelector(".songList").getElementsByTagName("li")
-//     ).forEach((e) => {
-//       e.addEventListener("click", (element) => {
-//         playMusic(e.querySelector(".info").firstElementChild.innerHTML.trim());
-//       });
-//     });
-
-//     play.addEventListener("click", () => {
-//       if (currentSong.paused) {
-//         currentSong.play();
-//         play.src = "/images/pause.svg";
-//       } else {
-//         currentSong.pause();
-//         play.src = "/images/play.svg";
-//       }
-//     });
 
 //     //Add an event listener to previous button
 
@@ -95,7 +39,6 @@ function secondsToMinutesSeconds(seconds) {
 //     });
 // };
 
-// songFunction();
 
 let currentAudio = new Audio(); // To keep track of the currently playing audio
 
@@ -112,7 +55,6 @@ const playSong = (songFile) => {
   //Listen from timeupdate event
 
   currentAudio.addEventListener("timeupdate", (a) => {
-    // console.log(currentSong.currentTime, currentSong.duration);
     document.querySelector(".songTime").innerHTML = `${secondsToMinutesSeconds(
       currentAudio.currentTime
     )}
@@ -159,6 +101,7 @@ const displayAlbumSongs = async (albumId) => {
       let playNowButton = li.querySelector(".playNow");
       playNowButton.addEventListener("click", () => {
         playSong(song.song_file);
+        document.querySelector(".songInfo").innerHTML = `${song.song_title} - ${selectedAlbum.title}`
         play.src = "/images/pause.svg";
       });
 
@@ -239,10 +182,6 @@ document.querySelector(".volume > img").addEventListener("click", (e) => {
   }
 });
 
-// Set the initial volume
-// if (currentAudio) {
-//   currentAudio.volume = 0.1; // Set the default volume
-// }
 
 const displayCards = async () => {
   const albums = await fetch("./songs.json");
